@@ -1,0 +1,17 @@
+{
+  "name": "crypto-couch-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@gr2m/crypto-pouch": "^2.0.1",
+    "memdown": "^1.1.2",
+    "pouchdb": "^5.2.1"
+  }
+}
