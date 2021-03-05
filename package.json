@@ -13,5 +13,6 @@
     "@gr2m/crypto-pouch": "^2.0.1",
     "memdown": "^1.1.2",
     "pouchdb": "^5.2.1"
-  }
+  },
+  "repository": "github:gr2m/crypto-couch-test"
 }
